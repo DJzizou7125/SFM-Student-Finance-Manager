@@ -5,9 +5,7 @@
 
 int main() {
     loadExpenses(); // Load stored expenses
-    loadDebts(); // Load stored debts
+    loadDebts();    // Load stored debts
     createGUI();    // Launch GUI
     return 0;
 }
-
-
